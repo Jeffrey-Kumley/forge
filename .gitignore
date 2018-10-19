@@ -21,3 +21,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/README.txt
+/.settings
+/bin
+/build
+/run
+/build.gradle
+/forge_Client.launch
+/forge_Server.launch
+/gradle.properties
+/gradlew
+/gradlew.bat
+/gradle
+/.gradle
