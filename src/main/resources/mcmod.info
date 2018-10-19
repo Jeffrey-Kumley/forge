@@ -1,7 +1,7 @@
 [
 {
-  "modid": "jeffreykumley",
-  "name": "Jeffrey's Example Mod",
+  "modid": "digipen",
+  "name": "DigiPen's Example Mod",
   "description": "Simple mod that does the basics.",
   "version": "1.0",
   "mcversion": "1.12.2",

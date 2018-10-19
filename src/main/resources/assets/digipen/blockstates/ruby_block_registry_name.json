@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "digipen:ruby_block_model" }
+    }
+}
